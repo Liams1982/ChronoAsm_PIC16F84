@@ -2,7 +2,6 @@ PIC16F84 Chronometer with Shift Register Output Expansion
 
 Author: Smail Lotmani
 Original Development Year: 2009
-Published: 2011
 
 
 ---
