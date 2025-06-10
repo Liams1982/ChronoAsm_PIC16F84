@@ -1,6 +1,6 @@
 ;**************************************************************************
 ;                                                                     
-;    NOM:      Chronometre                              
+;    NOM:      Chronomètre                             
 ;    Date:     20/04/2009                                           
 ;    Auteur:   Lotmani Smail                                           
 ;                                                                    
